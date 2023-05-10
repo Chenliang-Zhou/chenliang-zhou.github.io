@@ -3,7 +3,7 @@ title: "Investigation on Circadian Action and Color Quality in Laser-Based Illum
 collection: publications
 permalink: /publication/2020-light.md
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020
+date: 2020-07-07
 venue: 'IEEE Photonics Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/9134895'
 citation: 'Shuodi Lei, Bijing Liu, Yang Gao, Xiaoya Dong, Yujia Gong, Jian Xu, Yunxin Xu, Dong Wang, Ziquan Guo, Tingzhu Wu, <b>Chenliang Zhou</b>, Zongjian Cai, Yijun Lu, Zhong Chen. (2020). &quot;Investigation on Circadian Action and Color Quality in Laser-Based Illuminant for General Lighting and Display.&quot; <i>IEEE Photonics Journal,</i> vol. 12, no. 4, pp. 1-9, Aug. 2020, Art no. 8200509, doi: 10.1109/JPHOT.2020.3007529.'
