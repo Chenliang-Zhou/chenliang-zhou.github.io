@@ -49,13 +49,18 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %} -->
+
+        {% if page.teaser %}
+          <img src="{{ page.teaser }}" alt="{{ page.title | default: teaser }}"></img>
+        {% endif %}
     
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn" style="text-decoration: none">{{ site.data.ui-text[site.locale].ext_link_label | default: "Link" }}</a></div>{% endif %}
+        {% if page.link %}<div><a href="{{ page.link }}">{{ site.data.ui-text[site.locale].ext_link_label | default: "Link" }}</a></div>{% endif %}
+        {% if page.pdf %}<div><a href="{{ page.pdf }}">{{ site.data.ui-text[site.locale].pdf_link_label | default: "Paper" }}</a></div>{% endif %}
       </section>
 
       <footer class="page__meta">
