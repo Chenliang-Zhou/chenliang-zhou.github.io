@@ -11,25 +11,27 @@ author_profile: true
 
 Part II and MPhil students are welcome to contact me to discuss their project ideas, especially related to 2D/3D generation/manipulation.
 
-Some potential project ideas:
+Some potential project ideas (suggestions of your own are more than welcome):
 
 - [CLIP](https://openai.com/research/clip)-related
+
 	- Theoretical exploration/analysis of CLIP space
 
 	- Exploration of "object subspace": the subspace formed by different images/3D models of the same object
 
-	- Use PAE in 3D or video editing/fine-tuning 
+	- Application of [CLIP-PAE](https://chenliang-zhou.github.io/CLIP-PAE/) in other domains such as 3D or video editing
 
-A thorough analysis/summary of the pros & cons of using/not using CLIP and using Diffusion/GAN.
-Current good text2-3D models are text2NeRF, which is less useful for the artists who want to use it to generate a prototype model. Can we do text2mesh?
-Most methods only support a one-off generation; Can we manipulate/fine-tune the 3D object (e.g., modifying details such as geometry, colour, lighting, or adding objects), probably guided by text? Or can we try this on image
-Directly build CLIP3D (think about 3DMM etc. to encode 3D shapes?) (problem: data)
-Doing something at the text end of CLIP?
-Given to Zak: Improve CLIP (customized CLIP): retrain it using face data, or using a new distance (e.g. Mahalanobis), or change text encoder
-Combine text-driven scene generation and object generation
-Given to Jiale: Test the performance of CLIP/other language models when input is many sentences/paragraphs. Try paragraph to 2D/3D
-(Text-driven) 3D vision tasks: detection/recognition/captioning/classification/segmentation: by projecting the object to 2D and using CLIP.
-GET3D with only one view?
+	- 3D version of CLIP (similar work: 3DMM)
+
+	- Interesting tasks at the text end of CLIP (e.g., text generation)
+
+- Combine text-driven scene generation and object generation
+
+- Iterative editing of 3D objects
+
+- (Text-driven) 3D vision tasks (e.g., detection/recognition/captioning/classification/segmentation) via rendering to 2D
+
+- A thorough analysis/summary of the pros & cons of Diffusion model and GAN.
 
 
 
