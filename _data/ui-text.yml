@@ -11,6 +11,7 @@ en: &DEFAULT_EN
   toc_label                  : "On This Page"
   ext_link_label             : "Page"
   pdf_link_label             : "Paper"
+  code_link_label            : "Code"
   less_than                  : "less than"
   minute_read                : "minute read"
   share_on_label             : "Share on"

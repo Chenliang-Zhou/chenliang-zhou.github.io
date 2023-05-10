@@ -61,6 +61,7 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}">{{ site.data.ui-text[site.locale].ext_link_label | default: "Link" }}</a></div>{% endif %}
         {% if page.pdf %}<div><a href="{{ page.pdf }}">{{ site.data.ui-text[site.locale].pdf_link_label | default: "Paper" }}</a></div>{% endif %}
+        {% if page.pdf %}<div><a href="{{ page.code }}">{{ site.data.ui-text[site.locale].code_link_label | default: "Code" }}</a></div>{% endif %}
       </section>
 
       <footer class="page__meta">

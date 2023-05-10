@@ -7,6 +7,7 @@ date: 2020-04-03
 venue: 'AAAI'
 link: 'https://aispace2.github.io/AISpace2/'
 pdf: 'https://www.cs.ubc.ca/~poole/papers/EAAI-ZhouC-2020.pdf'
+code: 'https://github.com/aispace2/aispace2'
 teaser: '../images/2020-aispace2.png'
 authors: '<b>Chenliang Zhou</b>, Dominic Kuang, Jingru Liu, Tony Yang, Zijia Zhang, Alan Mackworth, David Poole'
 ---
