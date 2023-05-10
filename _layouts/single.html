@@ -60,8 +60,8 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Link" }}</a></div>{% endif %}
-        {% if page.pdf %}<div><a href="{{ page.pdf }}" class="btn">{{ site.data.ui-text[site.locale].pdf_link_label | default: "Paper" }}</a></div>{% endif %}
-        {% if page.pdf %}<div><a href="{{ page.code }}" class="btn">{{ site.data.ui-text[site.locale].code_link_label | default: "Code" }}</a></div>{% endif %}
+        <!-- {% if page.pdf %}<div><a href="{{ page.pdf }}" class="btn">{{ site.data.ui-text[site.locale].pdf_link_label | default: "Paper" }}</a></div>{% endif %} -->
+        <!-- {% if page.code %}<div><a href="{{ page.code }}" class="btn">{{ site.data.ui-text[site.locale].code_link_label | default: "Code" }}</a></div>{% endif %} -->
       </section>
 
       <footer class="page__meta">
