@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I am a PhD student at Department of Computer Science and Technology, University of Cambridge. My PhD research is supervised by [Cengiz Öztireli](https://www.cl.cam.ac.uk/~aco41/) and I work in his lab [CORE](http://159.65.60.144). I am interested in broad topics across machine learning and artificial intelligence. My current research focuses on computer vision and in particular, 2D and 3D reconstruction and manipulation. I obtained my MSc in Computer Science from University of Oxford and Bachelor of Science in Computer Science (Hons) and Mathematics (Hons) from University of British Colombia.
+Hey! I am a PhD student at [Department of Computer Science and Technology](https://www.cst.cam.ac.uk), [University of Cambridge](https://www.cam.ac.uk). My PhD research is supervised by [Cengiz Öztireli](https://www.cl.cam.ac.uk/~aco41/) and I work in his lab [CORE](http://159.65.60.144). I am interested in broad topics across machine learning and artificial intelligence. My current research focuses on computer vision and in particular, 2D and 3D reconstruction and manipulation. I obtained my MSc in Computer Science from [University of Oxford](https://www.ox.ac.uk) and Bachelor of Science in Computer Science (Hons) and Mathematics (Hons) from [University of British Colombia](https://www.ubc.ca).
 
 I like trying new things. I routinely work out. when I am free I love traveling to different countries.
 
