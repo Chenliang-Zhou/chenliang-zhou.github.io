@@ -1,7 +1,7 @@
 ---
 title: "Investigation on Circadian Action and Color Quality in Laser-Based Illuminant for General Lighting and Display"
 collection: publications
-# permalink: /publication/2020-light.md
+permalink: /publication/2020-light.md
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020
 venue: 'IEEE Photonics Journal'
