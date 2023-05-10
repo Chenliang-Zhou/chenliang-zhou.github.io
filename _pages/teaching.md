@@ -32,7 +32,11 @@ ideas
 
 ### University of British Columbia
 
-- Course 3
+- CPSC 404: Advanced Relational Databases, 2019-2020
 
-- Course 4
+- CPSC 425: Computer Vision, 2019-2020
+
+- CPSC 322: Introduction to Artificial Intelligence, 2018-2019
+
+- CPSC 121: Models of Computation, 2017-2018
 
