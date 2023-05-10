@@ -11,8 +11,7 @@ author_profile: true
 
 Part II and MPhil students are welcome to contact me to discuss their project ideas, especially related to 2D/3D generation/manipulation.
 
-Some potential project ideas (suggestions of your own are more than welcome):
-
+Some potential project ideas (suggestions of your own are more than welcome):  
 - [CLIP](https://openai.com/research/clip)-related
 	- Theoretical exploration/analysis of CLIP space
 	- Exploration of "object subspace": the subspace formed by different images/3D models of the same object
