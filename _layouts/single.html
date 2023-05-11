@@ -70,17 +70,8 @@ layout: default
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
-          <h4 class="page__meta-title" id="last_modified"></h4>
-          <p>say something</p>
         {% include page__taxonomy.html %}
       </footer>
-
-      <script>
-          /* Function to use lastModified property */
-          function lastModified() {
-              document.getElementById("last_modified").innerHTML = "Last updated on " + document.lastModified;
-          }
-      </script>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
