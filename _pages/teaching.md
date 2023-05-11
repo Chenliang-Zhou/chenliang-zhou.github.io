@@ -9,7 +9,7 @@ author_profile: true
 
 ## Part II/Part III/MPhil Project Suggestions
 
-Part II and MPhil students are welcome to contact me to discuss their project ideas, especially related to 2D/3D generation/manipulation.
+Part II, Part III and MPhil students are welcome to contact me to discuss their project ideas, especially related to 2D/3D generation/manipulation.
 
 Some potential project ideas (suggestions of your own are more than welcome):  
 - [CLIP](https://openai.com/research/clip)-related
