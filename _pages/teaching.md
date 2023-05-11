@@ -26,7 +26,7 @@ Some potential project ideas (suggestions of your own are more than welcome):
 - (Text-driven) 3D vision tasks (e.g., detection/recognition/captioning/classification/segmentation) via rendering to 2D
 - A thorough analysis/summary of the pros & cons of Diffusion model and GAN
 
-## MPhil/Part II Students
+## Students
 
 - Jiale Wang (MPhil; current): Paragraph2Image
 - Zak Buzzard (Part II; current): Comparing CLIP Architectures
