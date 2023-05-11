@@ -21,7 +21,7 @@ Some potential project ideas (suggestions of your own are more than welcome):
 - Combine text-driven scene generation and object generation
 - Iterative editing of 3D objects
 - (Text-driven) 3D vision tasks (e.g., detection/recognition/captioning/classification/segmentation) via rendering to 2D
-- A thorough analysis/summary of the pros & cons of Diffusion model and GAN.
+- A thorough analysis/summary of the pros & cons of Diffusion model and GAN
 
 
 
