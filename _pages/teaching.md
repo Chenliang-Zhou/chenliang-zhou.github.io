@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-## Part II/Part III/MPhil Project Suggestions
+## Part II/Part III/MPhil Project Supervision
 
-Part II, Part III and MPhil students are welcome to contact me to discuss their project ideas, especially related to 2D/3D generation/manipulation.
+I am supervising Part II, Part III and MPhil projects. The students are welcome to contact me to discuss their project ideas, especially related to 2D/3D generation/manipulation.
 
 Some potential project ideas (suggestions of your own are more than welcome):  
 - [CLIP](https://openai.com/research/clip)-related
@@ -25,8 +25,6 @@ Some potential project ideas (suggestions of your own are more than welcome):
 	- Text-guided [SMPL](https://smpl.is.tue.mpg.de) (a parametrized human model) manipulation
 - (Text-driven) 3D vision tasks (e.g., detection/recognition/captioning/classification/segmentation) via rendering to 2D
 - A thorough analysis/summary of the pros & cons of Diffusion model and GAN
-
-
 
 ## MPhil/Part II Students
 
