@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## MPhil/Part II Project Suggestions
+## Part II/Part III/MPhil Project Suggestions
 
 Part II and MPhil students are welcome to contact me to discuss their project ideas, especially related to 2D/3D generation/manipulation.
 
