@@ -12,17 +12,17 @@ author_profile: true
 I am supervising Part II, Part III, and MPhil projects. The students are welcome to contact me to discuss their project ideas, especially those related to 2D/3D generation/manipulation.
 
 Some potential project ideas (suggestions of your own are more than welcome):  
-- [CLIP](https://openai.com/research/clip)-related
+- <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related
 	- Theoretical exploration/analysis of CLIP space
 	- Exploration of "object subspace": the subspace formed by different images/3D models of the same object
-	- Application of [CLIP-PAE](https://chenliang-zhou.github.io/CLIP-PAE/) in other domains such as 3D or video editing
+	- Application of <a href="https://chenliang-zhou.github.io/CLIP-PAE/" target="_blank">CLIP-PAE</a> in other domains such as 3D or video editing
 	- 3D version of CLIP (similar work: 3DMM)
 	- Interesting tasks at the text end of CLIP (e.g., text generation)
 - 3D generation/manipulation
 	- Combine text-driven scene generation and object generation
 	- Iterative editing of 3D objects
-	- Potential improvements to [GET3D](https://nv-tlabs.github.io/GET3D/assets/paper.pdf): multi-class generation, generation using pure image datasets, or text-guided generation
-	- Text-guided [SMPL](https://smpl.is.tue.mpg.de) (a parametrized human model) manipulation
+	- Potential improvements to <a href="https://nv-tlabs.github.io/GET3D/" target="_blank">GET3D</a>: multi-class generation, generation using pure image datasets, or text-guided generation
+	- Text-guided <a href="https://smpl.is.tue.mpg.de" target="_blank">SMPL</a> (a parametrized human model) manipulation
 - (Text-driven) 3D vision tasks (e.g., detection/recognition/captioning/classification/segmentation) via rendering to 2D
 - A thorough analysis/summary of the pros & cons of Diffusion model and GAN
 
@@ -35,11 +35,11 @@ Some potential project ideas (suggestions of your own are more than welcome):
 
 ### University of Cambridge
 
-- [Artificial Intelligence](https://www.cl.cam.ac.uk/teaching/2223/ArtInt/), 2022-2023
-- [Interaction Design](https://www.cl.cam.ac.uk/teaching/2223/IntDesign/), 2022-2023
-- [Discrete Mathematics](https://www.cl.cam.ac.uk/teaching/2223/DiscMath/), 2022-2023
-- [Logic and Proof](https://www.cl.cam.ac.uk/teaching/2223/LogicProof/), 2022-2023
-- [Introduction to Graphics](https://www.cl.cam.ac.uk/teaching/2223/Graphics/), 2022-2023
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/ArtInt/" target="_blank">Artificial Intelligence</a>, 2022-2023
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/IntDesign/" target="_blank">Interaction Design</a>, 2022-2023
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/DiscMath/" target="_blank">Discrete Mathematics</a>, 2022-2023
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/LogicProof/" target="_blank">Logic and Proof</a>, 2022-2023
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/Graphics/" target="_blank">Introduction to Graphics</a>, 2022-2023
 
 ### University of British Columbia
 
