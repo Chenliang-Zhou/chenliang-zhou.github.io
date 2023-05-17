@@ -1,11 +1,7 @@
 <script src="{{ base_path }}/assets/js/main.min.js">
 	$(document).ready(function () {
-	  $('#site-nav a[href=' + window.location.href + ']').addClass('active');
-
-	  $('#site-nav a').click(function (e) {
-	      $('#site-nav a').removeClass('active');
-	      $(this).addClass('active');
-	  });
+	  $(':not(#site-nav a[href="' + window.location.href + '"])').remove('active');
+	  $('#site-nav a[href="' + window.location.href + '"]').addClass('active');
 	});
 </script>
 
