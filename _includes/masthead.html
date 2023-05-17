@@ -1,16 +1,4 @@
 {% include base_path %}
-
-<script>
-    $(document).ready(function () {
-      $('#site-nav a[href$=window.location.href]').addClass('active');
-
-      $('#site-nav a').click(function (e) {
-          $('#site-nav a').removeClass('active');
-          $(this).addClass('active');
-      });
-    });
-</script>
-
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
