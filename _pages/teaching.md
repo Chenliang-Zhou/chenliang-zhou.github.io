@@ -31,7 +31,7 @@ Some potential project ideas (suggestions of your own are more than welcome):
 - Jiale Wang (MPhil; current): Paragraph2Image
 - Zak Buzzard (Part II; current): Comparing CLIP Architectures
 
-## Supervision and Teaching Assistant
+## Supervision and Teaching Assistance
 
 ### University of Cambridge
 
