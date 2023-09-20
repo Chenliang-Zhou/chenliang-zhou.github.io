@@ -12,12 +12,7 @@ author_profile: true
 I am supervising Part II, Part III, and MPhil projects. The students are welcome to contact me to discuss their project ideas. I am interested in broad topics across machine learning and artificial intelligence. My current research focuses on computer vision, particularly 2D and 3D reconstruction and manipulation. I am also open to discussing other ideas.
 
 Some potential project ideas (suggestions of your own are more than welcome):  
-- <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related
-	- Theoretical exploration/analysis of CLIP space
-	- Exploration of "object subspace": the subspace formed by different images/3D models of the same object
-	- Application of <a href="https://chenliang-zhou.github.io/CLIP-PAE/" target="_blank">CLIP-PAE</a> in other domains such as 3D or video editing
-	- 3D version of CLIP (similar work: 3DMM)
-	- Interesting tasks at the text end of CLIP (e.g., text generation)
+- <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related: see <a href="Part III Project Proposal.pdf" target="_blank">here</a>
 - 3D generation/manipulation
 	- Combine text-driven scene generation and object generation
 	- Iterative editing of 3D objects
@@ -30,8 +25,8 @@ Some potential project ideas (suggestions of your own are more than welcome):
 
 ## Students
 
-- Jiale Wang (MPhil; current): Paragraph2Image
-- Zak Buzzard (Part II; current): Comparing CLIP Architectures
+- Jiale Wang (MPhil): Paragraph2Image
+- Zak Buzzard (Part II): Comparing CLIP Architectures
 
 ## Supervision and Teaching Assistance
 
