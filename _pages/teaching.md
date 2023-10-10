@@ -36,21 +36,21 @@ Some potential project ideas (suggestions of your own are more than welcome):
 
 ### University of Cambridge
 
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/IntroProb/" target="_blank">Introduction to Probability</a>, 2023-2024
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/FHCI/" target="_blank">Further Human-Computer Interaction</a>, 2023-2024
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/MLRD/" target="_blank">Machine Learning and Real-World Data</a>, 2023-2024
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/FoundsCS/" target="_blank">Foundations of Computer Science</a>, 2023-2024
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/FGraphics/" target="_blank">Further Graphics</a>, 2023-2024
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/ArtInt/" target="_blank">Artificial Intelligence</a>, 2022-2023
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/IntDesign/" target="_blank">Interaction Design</a>, 2022-2023
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/LogicProof/" target="_blank">Logic and Proof</a>, 2022-2023
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/Graphics/" target="_blank">Introduction to Graphics</a>, 2022-2023
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/DiscMath/" target="_blank">Discrete Mathematics</a>, 2022-2023
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/IntroProb/" target="_blank">Introduction to Probability</a> (2023-2024)
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/FHCI/" target="_blank">Further Human-Computer Interaction</a> (2023-2024)
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/MLRD/" target="_blank">Machine Learning and Real-World Data</a> (2023-2024)
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/FoundsCS/" target="_blank">Foundations of Computer Science</a> (2023-2024)
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/FGraphics/" target="_blank">Further Graphics</a> (2023-2024)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/ArtInt/" target="_blank">Artificial Intelligence</a> (2022-2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/IntDesign/" target="_blank">Interaction Design</a> (2022-2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/LogicProof/" target="_blank">Logic and Proof</a> (2022-2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/Graphics/" target="_blank">Introduction to Graphics</a> (2022-2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/DiscMath/" target="_blank">Discrete Mathematics</a> (2022-2023)
 
 ### University of British Columbia
 
-- CPSC 404: Advanced Relational Databases, 2019-2020
-- CPSC 425: Computer Vision, 2019-2020
-- CPSC 322: Introduction to Artificial Intelligence, 2018-2019
-- CPSC 121: Models of Computation, 2017-2018
+- CPSC 404: Advanced Relational Databases (2019-2020)
+- CPSC 425: Computer Vision (2019-2020)
+- CPSC 322: Introduction to Artificial Intelligence (2018-2019)
+- CPSC 121: Models of Computation (2017-2018)
 
