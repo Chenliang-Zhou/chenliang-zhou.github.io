@@ -25,13 +25,22 @@ Some potential project ideas (suggestions of your own are more than welcome):
 
 ## Students
 
-- Jiale Wang (MPhil): Paragraph2Image
-- Zak Buzzard (Part II): Comparing CLIP Architectures
+- Rang Chen: Adversarial Attack on 3D Point Clouds: A Saliency-Driven Approach
+- Sriram Akula: New Projection/Augmentation Methods for GET3D
+- Trevor (Tianyu) Wang: Stock Prediction from Sentiment Scores Calculate from Online Comments
+- Simon Luo: Comparative Analysis of Machine Learning Models to Predict Stock Prices
+- Jiale Wang: Paragraph2Image
+- Zak Buzzard: Comparing CLIP Architectures
 
 ## Supervision and Teaching Assistance
 
 ### University of Cambridge
 
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/FoundsCS/" target="_blank">Foundations of Computer Science</a>, 2023-2024
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/FGraphics/" target="_blank">Further Graphics</a>, 2023-2024
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/FHCI/" target="_blank">Further Human-Computer Interaction</a>, 2023-2024
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/MLRD/" target="_blank">Machine Learning and Real-World Data</a>, 2023-2024
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/IntroProb/" target="_blank">Introduction to Probability</a>, 2023-2024
 - <a href="https://www.cl.cam.ac.uk/teaching/2223/ArtInt/" target="_blank">Artificial Intelligence</a>, 2022-2023
 - <a href="https://www.cl.cam.ac.uk/teaching/2223/IntDesign/" target="_blank">Interaction Design</a>, 2022-2023
 - <a href="https://www.cl.cam.ac.uk/teaching/2223/DiscMath/" target="_blank">Discrete Mathematics</a>, 2022-2023
