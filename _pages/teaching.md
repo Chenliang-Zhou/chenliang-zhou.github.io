@@ -9,7 +9,7 @@ author_profile: true
 
 ## Part II/Part III/MPhil Project Supervision
 
-I am supervising Part II, Part III, and MPhil projects. The students are welcome to contact me to discuss their project ideas. I am interested in broad topics across machine learning and artificial intelligence. My current research focuses on computer vision, particularly 2D and 3D reconstruction and manipulation. I am also open to discussing other ideas.
+I am supervising Part II, Part III, and MPhil projects. The students are welcome to contact me to discuss their project ideas. I am interested in broad topics across machine learning and artificial intelligence. My current research focuses on computer vision, particularly 2D and 3D reconstruction and manipulation. I am also open to discussing other ideas. Please also include your transcript and CV (if you have one) when contacting me.
 
 Some potential project ideas (suggestions of your own are more than welcome):  
 - <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related: see <a href="/Part III Project Proposal.pdf" target="_blank">here</a>
