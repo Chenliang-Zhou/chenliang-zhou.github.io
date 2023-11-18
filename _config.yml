@@ -83,7 +83,7 @@ author:
   name             : "Chenliang Zhou"
   avatar           : "profile.jpg"
   bio              : "PhD student at University of Cambridge"
-  location         : "Cambridge, UK | Ningde, China"
+  location         : # "Cambridge, UK | Ningde, China"
   employer         :
   pubmed           : 
   googlescholar    : 
