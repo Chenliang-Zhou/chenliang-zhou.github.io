@@ -9,7 +9,7 @@ author_profile: true
 
 ## Part II/Part III/MPhil Project Supervision
 
-I am supervising Part II, Part III, and MPhil projects. The students are welcome to contact me to discuss their project ideas. I am interested in broad topics across machine learning and artificial intelligence. My current research focuses on computer vision, particularly 2D and 3D reconstruction and manipulation. I am also open to discussing other ideas. Please also include your transcript and CV (if you have one) when contacting me.
+I am supervising Part II, Part III, and MPhil projects. The students are welcome to contact me to discuss their project ideas. I am interested in broad topics across machine learning (especially computer vision) and artificial intelligence. My current research focuses on computer vision, particularly 2D and 3D reconstruction and manipulation. I am also open to discussing other ideas. Please also include your transcript and CV (if you have one) when contacting me.
 
 Some potential project ideas (suggestions of your own are more than welcome):  
 - <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related: see <a href="/Part III Project Proposal.pdf" target="_blank">here</a>
@@ -22,6 +22,7 @@ Some potential project ideas (suggestions of your own are more than welcome):
 - A thorough comparison/analysis/summary of the pros & cons of the diffusion model and GAN
 - Prompt engineering: analyze prompts to language models (e.g., ChatGPT or text-to-image models) that can 1. facilitate the original task, 2. achieve a certain type of attack (e.g., acquire some private information), or 3. improve the model to defend itself from this attack
 - Stock prediction model
+- Neural BRDF models (machine learning + graphics)
 
 ## Students
 
