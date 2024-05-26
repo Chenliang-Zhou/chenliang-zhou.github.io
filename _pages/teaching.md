@@ -26,9 +26,9 @@ Some potential project ideas (suggestions of your own are more than welcome):
 
 ## Students
 
-- Rang Chen: Adversarial Attack on 3D Point Clouds: A Saliency-Driven Approach
-- Sriram Akula: New Projection/Augmentation Methods for GET3D
-- Trevor (Tianyu) Wang: Stock Prediction from Sentiment Scores Calculate from Online Comments
+- Rang Chen: Adversarial Attack on 3D Point Clouds: A Saliency Map-Driven Approach
+- Sriram Akula: Text-Guided Manipulation of Textured Meshes
+- Trevor (Tianyu) Wang: Stock Price Prediction Based on Stock Forum Posts
 - Simon Luo: Comparative Analysis of Machine Learning Models to Predict Stock Prices
 - Jiale Wang: Paragraph2Image
 - Zak Buzzard: Comparing CLIP Architectures
