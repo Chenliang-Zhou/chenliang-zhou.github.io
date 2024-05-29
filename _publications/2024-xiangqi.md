@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/2024-xiangqi
 date: 2024-08-05
 venue: 'IEEE CoG'
-<!--- link: 'https://aispace2.github.io/AISpace2/' -->
-<!--- pdf: 'https://www.cs.ubc.ca/~poole/papers/EAAI-ZhouC-2020.pdf' -->
-<!--- code: 'https://github.com/aispace2/aispace2' -->
+# link: 'https://aispace2.github.io/AISpace2/'
+# pdf: 'https://www.cs.ubc.ca/~poole/papers/EAAI-ZhouC-2020.pdf'
+# code: 'https://github.com/aispace2/aispace2'
 teaser: '../images/2024-xiangqi.pdf'
 authors: '<b>Chenliang Zhou</b>'
 ---
