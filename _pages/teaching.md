@@ -16,7 +16,6 @@ Some potential project ideas (suggestions of your own are more than welcome):
 - 3D generation/manipulation
 	- Combine text-driven scene generation and object generation
 	- Iterative editing of 3D objects
-	- Potential improvements to <a href="https://nv-tlabs.github.io/GET3D/" target="_blank">GET3D</a>: multi-class generation, generation using pure image datasets, or text-guided generation
 	- Text-guided <a href="https://smpl.is.tue.mpg.de" target="_blank">SMPL</a> (a parametrized human model) manipulation
 - (Text-driven) 3D vision tasks (e.g., detection/recognition/captioning/classification/segmentation) via rendering to 2D
 - A thorough comparison/analysis/summary of the pros & cons of the diffusion model and GAN
