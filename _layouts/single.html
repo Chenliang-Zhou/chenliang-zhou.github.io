@@ -35,9 +35,9 @@ layout: default
         {% endif %}
         
         {% if page.authors and page.venue and page.date %}
-          <p>{{ page.authors }}<br><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+          <p>{{ page.authors }}<br><i>{{ page.venue }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</i></p>
         {% elsif page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{{ page.type }}, <i>{{ page.venue }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</i></p>
         {% elsif page.venue and page.date %}
           <p><i>{{ page.venue }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</i></p>
         {% elsif page.date %}
