@@ -17,8 +17,11 @@ author_profile: true
 {% endfor %}
 {% endcomment %}
 
-- [Imitate Human in Board Games: Move Prediction in Xiangqi](/publications/2024-xiangqi)  
-  **Chenliang Zhou**. *IEEE CoG 2024*.
+- [FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation ](/publications/2024-frepolad)  
+  **Chenliang Zhou**, Fangcheng Zhong, Param Hanji, Zhilin Guo, Kyle Fogarty, Alejandro Sztrajman, Hongyun Gao, Cengiz Oztireli. *ECCV 2024*.
+
+- [Hypernetworks for Generalizable BRDF Representation](/publications/2024-hypernetworks)  
+  Fazilet Gokbudak, Alejandro Sztrajman, **Chenliang Zhou**, Fangcheng Zhong, Rafal Mantiuk, Cengiz Oztireli. *ECCV 2024*.
 
 - [CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Face Manipulation](/publications/2023-pae)  
   **Chenliang Zhou**, Fangcheng Zhong, Cengiz Öztireli. *SIGRRAPH 2023*.
