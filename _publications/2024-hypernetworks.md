@@ -7,7 +7,7 @@ venue: 'ECCV'
 link: 'https://faziletgokbudak.github.io/hyper-page/'
 pdf: 'https://arxiv.org/pdf/2311.15783.pdf'
 code: 'https://github.com/faziletgokbudak/Hyper-neural-materials'
-teaser: '../images/2023-hypernetworks.png'
+teaser: '../images/2024-hypernetworks.png'
 authors: 'Fazilet Gokbudak, Alejandro Sztrajman, <b>Chenliang Zhou</b>, Fangcheng Zhong, Rafal Mantiuk, Cengiz Oztireli'
 ---
 
