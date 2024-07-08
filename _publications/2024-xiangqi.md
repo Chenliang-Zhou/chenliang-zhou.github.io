@@ -1,5 +1,5 @@
 ---
-title: "Imitate Human in Board Games: Move Prediction in Xiangqi"
+title: "XQSV: A Structurally Variable Network to Imitate Human Play in Xiangqi"
 collection: publications
 permalink: /publications/2024-xiangqi
 date: 2024-08-05
