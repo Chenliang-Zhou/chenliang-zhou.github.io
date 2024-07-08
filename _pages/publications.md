@@ -23,7 +23,7 @@ author_profile: true
 - [Hypernetworks for Generalizable BRDF Representation](https://faziletgokbudak.github.io/hyper-page/)  
   Fazilet Gokbudak, Alejandro Sztrajman, **Chenliang Zhou**, Fangcheng Zhong, Rafal Mantiuk, Cengiz Oztireli. *ECCV 2024*.
 
-- [Imitate Human in Board Games: Move Prediction in Xiangqi](/publications/2024-xiangqi)  
+- [XQSV: A Structurally Variable Network to Imitate Human Play in Xiangqi](/publications/2024-xiangqi)  
   **Chenliang Zhou**. *IEEE CoG 2024*.
 
 - [CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Face Manipulation](https://chenliang-zhou.github.io/CLIP-PAE/)  
