@@ -1,7 +1,7 @@
 ---
 title: "FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation"
 collection: publications
-permalink: /publications/2024-frepolad
+permalink:
 date: 2024-09-20
 venue: 'ECCV'
 link: 'https://chenliang-zhou.github.io/FrePolad/'
