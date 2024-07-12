@@ -1,7 +1,7 @@
 ---
 title: "Hypernetworks for Generalizable BRDF Representation"
 collection: publications
-permalink: /publications/2024-hypernetworks
+permalink:
 date: 2024-09-20
 venue: 'ECCV'
 link: 'https://faziletgokbudak.github.io/hyper-page/'
