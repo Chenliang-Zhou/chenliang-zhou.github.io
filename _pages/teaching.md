@@ -14,6 +14,7 @@ I am supervising Part II, Part III, and MPhil projects. The students are welcome
 Some potential project ideas (suggestions of your own are more than welcome):  
 - <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related: see <a href="/Part III Project Proposal.pdf" target="_blank">here</a>
 - 3D generation/manipulation
+  	- Scene generation with human
 	- Combine text-driven scene generation and object generation
 	- Iterative editing of 3D objects
 	- Text-guided <a href="https://smpl.is.tue.mpg.de" target="_blank">SMPL</a> (a parametrized human model) manipulation
