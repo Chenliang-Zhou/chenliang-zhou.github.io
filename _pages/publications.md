@@ -17,6 +17,9 @@ author_profile: true
 {% endfor %}
 {% endcomment %}
 
+- [Fitness Aware Human Motion Generation from Fine-Tuning](/publications/2024-fitness)  
+  Kiril Bikov, Shiye Su, Deepro Choudhury, Zhilin Guo, Weihao Xia, Mehmet Salih Çeliktenyıldız, **Chenliang Zhou**, Param Hanji, Cengiz Oztireli. *NeurIPS 2024*.
+
 - [FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation ](https://chenliang-zhou.github.io/FrePolad/)  
   **Chenliang Zhou**, Fangcheng Zhong, Param Hanji, Zhilin Guo, Kyle Fogarty, Alejandro Sztrajman, Hongyun Gao, Cengiz Oztireli. *ECCV 2024*.
 
