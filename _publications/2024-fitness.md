@@ -3,7 +3,7 @@ title: "Fitness Aware Human Motion Generation from Fine-Tuning"
 collection: publications
 permalink: /publications/2024-fitness
 date: 2024-12-10
-venue: 'NeurIPS 2024'
+venue: 'NeurIPS'
 teaser: '../images/2024-fitness.png'
 authors: 'Kiril Bikov, Shiye Su, Deepro Choudhury, Zhilin Guo, Weihao Xia, Mehmet Salih Çeliktenyıldız, <b>Chenliang Zhou</b>, Param Hanji, Cengiz Oztireli'
 ---
