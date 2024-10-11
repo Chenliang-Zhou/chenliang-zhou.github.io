@@ -23,7 +23,7 @@ author_profile: true
 - [FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation ](https://chenliang-zhou.github.io/FrePolad/)  
   **Chenliang Zhou**, Fangcheng Zhong, Param Hanji, Zhilin Guo, Kyle Fogarty, Alejandro Sztrajman, Hongyun Gao, Cengiz Oztireli. *ECCV 2024*.
 
-- [Hypernetworks for Generalizable BRDF Representation](https://faziletgokbudak.github.io/hyper-page/)  
+- [Hypernetworks for Generalizable BRDF Representation](https://faziletgokbudak.github.io/HyperBRDF/)  
   Fazilet Gokbudak, Alejandro Sztrajman, **Chenliang Zhou**, Fangcheng Zhong, Rafal Mantiuk, Cengiz Oztireli. *ECCV 2024*.
 
 - [XQSV: A Structurally Variable Network to Imitate Human Play in Xiangqi](/publications/2024-xiangqi)  
