@@ -13,6 +13,7 @@ I am supervising Part II, Part III, and MPhil projects. The students are welcome
 
 Some potential project ideas (suggestions of your own are more than welcome):  
 - <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related: see <a href="/Part III Project Proposal.pdf" target="_blank">here</a>
+- Application of frequency rectification techniques used in <a href="https://chenliang-zhou.github.io/FrePolad/" target="_blank">FrePolad</a> on other 3D representations (see <a href="/extension-fre-rec-3d-proposal.pdf" target="_blank">here</a>) or images (see <a href="/extension-fre-rec-2d-proposal.pdf" target="_blank">here</a>).
 - 3D generation/manipulation
 	- Joint generation of 3D scene and human motions with mutual spatial awareness: see <a href="/scene-human-gen-proposal.pdf" target="_blank">here</a>
 	- Combine text-driven scene generation and object generation
