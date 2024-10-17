@@ -21,15 +21,18 @@ author_profile: true
 Kiril Bikov, Shiye Su, Deepro Choudhury, Zhilin Guo, Weihao Xia, Mehmet Salih Çeliktenyıldız, **Chenliang Zhou**, Param Hanji, Cengiz Oztireli. *NeurIPS 2024*.
 
 <a href="https://chenliang-zhou.github.io/FrePolad/" target="_blank">FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation</a>
+
 **Chenliang Zhou**, Fangcheng Zhong, Param Hanji, Zhilin Guo, Kyle Fogarty, Alejandro Sztrajman, Hongyun Gao, Cengiz Oztireli. *ECCV 2024*.
 
 <a href="https://faziletgokbudak.github.io/HyperBRDF/" target="_blank">Hypernetworks for Generalizable BRDF Representation</a>
+
 Fazilet Gokbudak, Alejandro Sztrajman, **Chenliang Zhou**, Fangcheng Zhong, Rafal Mantiuk, Cengiz Oztireli. *ECCV 2024*.
 
 [XQSV: A Structurally Variable Network to Imitate Human Play in Xiangqi](/publications/2024-xiangqi)  
 **Chenliang Zhou**. *IEEE CoG 2024*.
 
 <a href="https://chenliang-zhou.github.io/CLIP-PAE/" target="_blank">CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Face Manipulation</a>
+
 **Chenliang Zhou**, Fangcheng Zhong, Cengiz Öztireli. *SIGRRAPH 2023*.
 
 [Investigation on Circadian Action and Color Quality in Laser-Based Illuminant for General Lighting and Display](/publications/2020-light)  
