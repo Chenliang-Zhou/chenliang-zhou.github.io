@@ -9,7 +9,7 @@ author_profile: true
 
 ## Part II/Part III/MPhil Project Supervision
 
-I am supervising Part II, Part III, and MPhil projects. The students are welcome to contact me to discuss their project ideas. I am interested in broad topics across machine learning (especially computer vision) and artificial intelligence. My current research focuses on computer vision, particularly 2D and 3D reconstruction and manipulation. I am also open to discussing other ideas. Please also include your transcript and CV (if you have one) when contacting me.
+I am supervising Part II, Part III, and MPhil projects. Motivated and highly capable students are welcome to contact me to discuss their project ideas. I am interested in broad topics across machine learning and artificial intelligence. My current research focuses on generative AI, computer vision, and neural rendering. I am also open to discussing other ideas. Please also include your transcript and CV (if you have one) when contacting me.
 
 Some potential project ideas (suggestions of your own are more than welcome):  
 - <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related: see <a href="/proposals/clip-related.pdf" target="_blank">here</a>
@@ -27,6 +27,10 @@ Some potential project ideas (suggestions of your own are more than welcome):
 
 ## Students
 
+- Peter Hu Neural Representation of Bidirectional Reflectance Distribution Function
+- Zhiyuan Chen: Exploring Subspace Semantics in CLIP Embeddings
+- Aaron Ford: Exploration of CLIP Embeddings
+- Dmytro Mai: A thorough Comparison/Analysis/Summary of the Pros & Cons of the Diffusion Model and GAN
 - Rang Chen: Adversarial Attack on 3D Point Clouds: A Saliency Map-Driven Approach
 - Sriram Akula: Text-Guided Manipulation of Textured Meshes
 - Trevor (Tianyu) Wang: Stock Price Prediction Based on Stock Forum Posts
@@ -38,16 +42,21 @@ Some potential project ideas (suggestions of your own are more than welcome):
 
 ### University of Cambridge
 
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/IntroProb/" target="_blank">Introduction to Probability</a> (2023-2024)
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/FHCI/" target="_blank">Further Human-Computer Interaction</a> (2023-2024)
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/MLRD/" target="_blank">Machine Learning and Real-World Data</a> (2023-2024)
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/FoundsCS/" target="_blank">Foundations of Computer Science</a> (2023-2024)
-- <a href="https://www.cl.cam.ac.uk/teaching/2324/FGraphics/" target="_blank">Further Graphics</a> (2023-2024)
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/ArtInt/" target="_blank">Artificial Intelligence</a> (2022-2023)
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/IntDesign/" target="_blank">Interaction Design</a> (2022-2023)
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/LogicProof/" target="_blank">Logic and Proof</a> (2022-2023)
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/Graphics/" target="_blank">Introduction to Graphics</a> (2022-2023)
-- <a href="https://www.cl.cam.ac.uk/teaching/2223/DiscMath/" target="_blank">Discrete Mathematics</a> (2022-2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2425/CySecurity/" target="_blank">Cybersecurity</a> (2025)
+- <a href="https://www.cl.cam.ac.uk/teaching/2425/ECommerce/" target="_blank">E-Commerce</a> (2025)
+- <a href="https://www.cl.cam.ac.uk/teaching/2425/CompConstr/" target="_blank">Compiler Construction</a> (2025)
+- <a href="https://www.cl.cam.ac.uk/teaching/2425/InfoTheory/" target="_blank">Information Theory</a> (2025)
+- <a href="https://www.cl.cam.ac.uk/teaching/2425/Bioinfo/" target="_blank">Bioinformatics</a> (2024)
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/IntroProb/" target="_blank">Introduction to Probability</a> (2024)
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/FHCI/" target="_blank">Further Human-Computer Interaction</a> (2024)
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/MLRD/" target="_blank">Machine Learning and Real-World Data</a> (2024)
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/FoundsCS/" target="_blank">Foundations of Computer Science</a> (2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2324/FGraphics/" target="_blank">Further Graphics</a> (2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/ArtInt/" target="_blank">Artificial Intelligence</a> (2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/IntDesign/" target="_blank">Interaction Design</a> (2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/LogicProof/" target="_blank">Logic and Proof</a> (2023)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/Graphics/" target="_blank">Introduction to Graphics</a> (2022)
+- <a href="https://www.cl.cam.ac.uk/teaching/2223/DiscMath/" target="_blank">Discrete Mathematics</a> (2022)
 
 ### University of British Columbia
 
