@@ -27,10 +27,10 @@ Some potential project ideas (suggestions of your own are more than welcome):
 
 ## Students
 
-- Peter Hu Neural Representation of Bidirectional Reflectance Distribution Function
+- Peter Hu: Neural Representation of Bidirectional Reflectance Distribution Function
 - Zhiyuan Chen: Exploring Subspace Semantics in CLIP Embeddings
-- Aaron Ford: Exploration of CLIP Embeddings
-- Dmytro Mai: A thorough Comparison/Analysis/Summary of the Pros & Cons of the Diffusion Model and GAN
+- Aaron Ford: An Analysis of CLIP Subspaces and Feature Encodings
+- Dmytro Mai: A Thorough Comparison/Analysis/Summary of the Pros & Cons of the Diffusion Model and GAN
 - Rang Chen: Adversarial Attack on 3D Point Clouds: A Saliency Map-Driven Approach
 - Sriram Akula: Text-Guided Manipulation of Textured Meshes
 - Trevor (Tianyu) Wang: Stock Price Prediction Based on Stock Forum Posts
