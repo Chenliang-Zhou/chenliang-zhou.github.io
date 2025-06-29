@@ -17,6 +17,9 @@ author_profile: true
 {% endfor %}
 {% endcomment %}
 
+FreNBRDF: A Frequency-Rectified Neural Material Representation
+**Chenliang Zhou**, Zheyuan Hu, Cengiz Oztireli. *IEEE MLSP 2025*.
+
 [Fitness Aware Human Motion Generation from Fine-Tuning](/publications/2024-fitness)  
 Kiril Bikov, Shiye Su, Deepro Choudhury, Zhilin Guo, Weihao Xia, Mehmet Salih Çeliktenyıldız, **Chenliang Zhou**, Param Hanji, Cengiz Oztireli. *NeurIPS 2024*.
 
