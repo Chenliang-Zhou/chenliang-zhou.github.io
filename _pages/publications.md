@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 {% endcomment %}
 
-<a href="https://arxiv.org/abs/2505.14319" target="_blank">RETRO: REthinking Tactile Representation Learning with Material PriOrs</a>
+<a href="https://weihaox.github.io/RETRO" target="_blank">RETRO: REthinking Tactile Representation Learning with Material PriOrs</a>
 <br>Weihao Xia, **Chenliang Zhou**, Cengiz Oztireli. *BMVC 2025*.
 
 <a href="https://arxiv.org/abs/2507.00476" target="_blank">FreNBRDF: A Frequency-Rectified Neural Material Representation</a>
