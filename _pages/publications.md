@@ -20,7 +20,7 @@ author_profile: true
 <a href="https://weihaox.github.io/RETRO" target="_blank">RETRO: REthinking Tactile Representation Learning with Material PriOrs</a>
 <br>Weihao Xia, **Chenliang Zhou**, Cengiz Oztireli. *BMVC 2025*.
 
-<a href="https://arxiv.org/abs/2507.00476" target="_blank">FreNBRDF: A Frequency-Rectified Neural Material Representation</a>
+<a href="https://peterhuistyping.github.io/FreNBRDF/" target="_blank">FreNBRDF: A Frequency-Rectified Neural Material Representation</a>
 <br>**Chenliang Zhou**, Zheyuan Hu, Cengiz Oztireli. *IEEE MLSP 2025*.
 
 [Fitness Aware Human Motion Generation from Fine-Tuning](/publications/2024-fitness)  
