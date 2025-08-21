@@ -45,7 +45,7 @@ Kiril Bikov, Shiye Su, Deepro Choudhury, Zhilin Guo, Weihao Xia, Mehmet Salih Ç
 Shuodi Lei, Bijing Liu, Yang Gao, Xiaoya Dong, Yujia Gong, Jian Xu, Yunxin Xu, Dong Wang, Ziquan Guo, Tingzhu Wu, **Chenliang Zhou**, Zongjian Cai, Yijun Lu, Zhong Chen. *IEEE Photonics Journal 2020*.
 
 <a href="https://arxiv.org/abs/2505.15109" target="_blank">Comparing Parameterizations and Objective Functions for Maximizing the Volume of Zonotopic Invariant Sets</a>
-<br>**Chenliang Zhou**, Heejin Ahn, Ian Mitchell. *CDC 2020*.
+<br>**Chenliang Zhou**, Heejin Ahn, Ian Mitchell. *IEEE CDC 2020*.
 
 <a href="https://aispace2.github.io/AISpace2/index.html" target="_blank">AISpace2: An Interactively Visualizable Tool for Learning and Teaching Artificial Intelligence</a>
 <br>**Chenliang Zhou**, Dominic Kuang, Jingru Liu, Tony Yang, Zijia Zhang, Alan Mackworth, David Poole. *AAAI 2020*.
