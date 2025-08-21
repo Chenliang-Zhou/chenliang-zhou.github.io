@@ -48,4 +48,4 @@ Shuodi Lei, Bijing Liu, Yang Gao, Xiaoya Dong, Yujia Gong, Jian Xu, Yunxin Xu, D
 <br>**Chenliang Zhou**, Heejin Ahn, Ian Mitchell. *CDC 2020*.
 
 <a href="https://aispace2.github.io/AISpace2/index.html" target="_blank">AISpace2: An Interactively Visualizable Tool for Learning and Teaching Artificial Intelligence</a>
-**Chenliang Zhou**, Dominic Kuang, Jingru Liu, Tony Yang, Zijia Zhang, Alan Mackworth, David Poole. *AAAI 2020*.
+<br>**Chenliang Zhou**, Dominic Kuang, Jingru Liu, Tony Yang, Zijia Zhang, Alan Mackworth, David Poole. *AAAI 2020*.
