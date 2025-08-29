@@ -25,19 +25,6 @@ Some potential project ideas (suggestions of your own are more than welcome):
 - Stock prediction model
 - Neural BRDF models (machine learning + graphics)
 
-## Students
-
-- Peter Hu: Neural Representation of Bidirectional Reflectance Distribution Function
-- Zhiyuan Chen: Exploring Subspace Semantics in CLIP Embeddings
-- Aaron Ford: An Analysis of CLIP Subspaces and Feature Encodings
-- Dmytro Mai: A Thorough Comparison/Analysis/Summary of the Pros & Cons of the Diffusion Model and GAN
-- Rang Chen: Adversarial Attack on 3D Point Clouds: A Saliency Map-Driven Approach
-- Sriram Akula: Text-Guided Manipulation of Textured Meshes
-- Trevor (Tianyu) Wang: Stock Price Prediction Based on Stock Forum Posts
-- Simon Luo: Comparative Analysis of Machine Learning Models to Predict Stock Prices
-- Jiale Wang: Paragraph2Image
-- Zak Buzzard: Comparing CLIP Architectures
-
 ## Supervision and Teaching Assistance
 
 ### University of Cambridge
@@ -64,4 +51,18 @@ Some potential project ideas (suggestions of your own are more than welcome):
 - CPSC 425: Computer Vision (2019-2020)
 - CPSC 322: Introduction to Artificial Intelligence (2018-2019)
 - CPSC 121: Models of Computation (2017-2018)
+
+
+[//]: # (## Students)
+
+[//]: # (- Peter Hu: Neural Representation of Bidirectional Reflectance Distribution Function)
+[//]: # (- Zhiyuan Chen: Exploring Subspace Semantics in CLIP Embeddings)
+[//]: # (- Aaron Ford: An Analysis of CLIP Subspaces and Feature Encodings)
+[//]: # (- Dmytro Mai: A Thorough Comparison/Analysis/Summary of the Pros & Cons of the Diffusion Model and GAN)
+[//]: # (- Rang Chen: Adversarial Attack on 3D Point Clouds: A Saliency Map-Driven Approach)
+[//]: # (- Sriram Akula: Text-Guided Manipulation of Textured Meshes)
+[//]: # (- Trevor Tianyu Wang: Stock Price Prediction Based on Stock Forum Posts)
+[//]: # (- Simon Luo: Comparative Analysis of Machine Learning Models to Predict Stock Prices)
+[//]: # (- Jiale Wang: Paragraph2Image)
+[//]: # (- Zak Buzzard: Comparing CLIP Architectures)
 
