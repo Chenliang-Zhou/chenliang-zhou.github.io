@@ -11,19 +11,18 @@ author_profile: true
 
 I am supervising Part II, Part III, and MPhil projects. Motivated and highly capable students are welcome to contact me to discuss their project ideas. I am interested in broad topics across machine learning and artificial intelligence. My current research focuses on generative AI, computer vision, and neural rendering. I am also open to discussing other ideas. Please also include your transcript and CV (if you have one) when contacting me.
 
-Some potential project ideas (suggestions of your own are more than welcome):  
-- <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related: see <a href="/proposals/clip-related.pdf" target="_blank">here</a>
-- Application of frequency rectification techniques used in <a href="https://chenliang-zhou.github.io/FrePolad/" target="_blank">FrePolad</a> on other 3D representations (see <a href="/proposals/frepolad-on-other-3d.pdf" target="_blank">here</a>) or images (see <a href="/proposals/frepolad-on-image.pdf" target="_blank">here</a>).
+Some potential project ideas (please contact me for more detailed descriptions and proposals of these ideas; suggestions of your own are more than welcome):  
+- <a href="https://openai.com/research/clip" target="_blank">CLIP</a>-related
+- Application of frequency rectification techniques used in <a href="https://chenliang-zhou.github.io/FrePolad/" target="_blank">FrePolad</a> on other 3D representations or images
 - 3D generation/manipulation
-	- Joint generation of 3D scene and human motions with mutual spatial awareness: see <a href="/proposals/scene-human-gen.pdf" target="_blank">here</a>
+	- Joint generation of 3D scene and human motions with mutual spatial awareness
 	- Combine text-driven scene generation and object generation
 	- Iterative editing of 3D objects
 	- Text-guided <a href="https://smpl.is.tue.mpg.de" target="_blank">SMPL</a> (a parametrized human model) manipulation
 - (Text-driven) 3D vision tasks (e.g., detection/recognition/captioning/classification/segmentation) via rendering to 2D
-- A thorough comparison/analysis/summary of the pros & cons of the diffusion model and GAN
-- Prompt engineering: analyze prompts to language models (e.g., ChatGPT or text-to-image models) that can 1. facilitate the original task, 2. achieve a certain type of attack (e.g., acquire some private information), or 3. improve the model to defend itself from this attack
-- Stock prediction model
 - Neural BRDF models (machine learning + graphics)
+- Neural rendering
+- Extensions and applications of <a href="https://zfc946.github.io/CNF.github.io/" target="_blank">CNF</a>
 
 ## Supervision and Teaching Assistance
 
