@@ -17,10 +17,13 @@ author_profile: true
 {% endfor %}
 {% endcomment %}
 
-Analyzing and Modeling LLM Response Lengths with Extreme Value Theory: Anchoring Effects and Hybrid Distributions
+<a href="https://peterhuistyping.github.io/M3ashy/" target="_blank">M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion</a>
+<br>**Chenliang Zhou**, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli. *AAAI 2026*.
+
+<a href="https://aclanthology.org/2025.emnlp-main.1676/" target="_blank">Analyzing and Modeling LLM Response Lengths with Extreme Value Theory: Anchoring Effects and Hybrid Distributions</a>
 <br>Liuxuan Jiao, Chen Gao, Yiqian Yang, **Chenliang Zhou**, YiXian Huang, Yong Li, Xinlei Chen. *EMNLP 2025*.
 
-<a href="https://weihaox.github.io/RETRO" target="_blank">RETRO: REthinking Tactile Representation Learning with Material PriOrs</a>
+<a href="https://www.researchgate.net/publication/391911076_RETRO_REthinking_Tactile_Representation_Learning_with_Material_PriOrs" target="_blank">RETRO: REthinking Tactile Representation Learning with Material PriOrs</a>
 <br>Weihao Xia, **Chenliang Zhou**, Cengiz Oztireli. *BMVC 2025*.
 
 <a href="https://peterhuistyping.github.io/FreNBRDF/" target="_blank">FreNBRDF: A Frequency-Rectified Neural Material Representation</a>
