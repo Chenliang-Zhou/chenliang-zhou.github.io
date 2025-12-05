@@ -45,7 +45,7 @@ Kiril Bikov, Shiye Su, Deepro Choudhury, Zhilin Guo, Weihao Xia, Mehmet Salih Ç
 <br>**Chenliang Zhou**, Fangcheng Zhong, Cengiz Öztireli. *SIGRRAPH 2023*.
 
 <a href="https://ieeexplore.ieee.org/document/9134895" target="_blank">Investigation on Circadian Action and Color Quality in Laser-Based Illuminant for General Lighting and Display</a>
-Shuodi Lei, Bijing Liu, Yang Gao, Xiaoya Dong, Yujia Gong, Jian Xu, Yunxin Xu, Dong Wang, Ziquan Guo, Tingzhu Wu, **Chenliang Zhou**, Zongjian Cai, Yijun Lu, Zhong Chen. *IEEE Photonics Journal 2020*.
+<br>Shuodi Lei, Bijing Liu, Yang Gao, Xiaoya Dong, Yujia Gong, Jian Xu, Yunxin Xu, Dong Wang, Ziquan Guo, Tingzhu Wu, **Chenliang Zhou**, Zongjian Cai, Yijun Lu, Zhong Chen. *IEEE Photonics Journal 2020*.
 
 <a href="https://arxiv.org/abs/2505.15109" target="_blank">Comparing Parameterizations and Objective Functions for Maximizing the Volume of Zonotopic Invariant Sets</a>
 <br>**Chenliang Zhou**, Heejin Ahn, Ian Mitchell. *IEEE CDC 2020*.
