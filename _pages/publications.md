@@ -17,6 +17,9 @@ author_profile: true
 {% endfor %}
 {% endcomment %}
 
+Quartet of Diffusions: Structure-Aware Point Cloud Generation through Part and Symmetry Guidance
+<br>**Chenliang Zhou**, Fangcheng Zhong, Weihao Xia, Albert Miao, Canberk Baykal, Cengiz Oztireli. *ICLR 2026*.
+
 <a href="https://peterhuistyping.github.io/M3ashy/" target="_blank">M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion</a>
 <br>**Chenliang Zhou**, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli. *AAAI 2026*.
 
