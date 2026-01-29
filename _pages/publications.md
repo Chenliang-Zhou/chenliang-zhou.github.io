@@ -27,7 +27,7 @@ M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion
 <br>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026
 <br>[<a href="https://peterhuistyping.github.io/M3ashy/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2411.12015" target="_blank">paper</a>][<a href="https://github.com/PeterHUistyping/M3ashy" target="_blank">code</a>][<a href="https://huggingface.co/datasets/Peter2023HuggingFace/NeuMERL" target="_blank">dataset</a>]
 
-Analyzing and Modeling LLM Response Lengths with Extreme Value Theory: Anchoring Effects and Hybrid Distributions</a>
+Analyzing and Modeling LLM Response Lengths with Extreme Value Theory: Anchoring Effects and Hybrid Distributions
 <br>Liuxuan Jiao, Chen Gao, Yiqian Yang, **Chenliang Zhou**, YiXian Huang, Yong Li, Xinlei Chen
 <br>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
 <br>[<a href="https://aclanthology.org/2025.emnlp-main.1676/" target="_blank">paper</a>]
