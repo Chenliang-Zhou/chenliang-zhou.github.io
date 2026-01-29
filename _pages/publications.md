@@ -18,13 +18,19 @@ author_profile: true
 {% endcomment %}
 
 Quartet of Diffusions: Structure-Aware Point Cloud Generation through Part and Symmetry Guidance
-<br>**Chenliang Zhou**, Fangcheng Zhong, Weihao Xia, Albert Miao, Canberk Baykal, Cengiz Oztireli. *ICLR 2026*.
+<br>**Chenliang Zhou**, Fangcheng Zhong, Weihao Xia, Albert Miao, Canberk Baykal, Cengiz Oztireli
+<br>Proceedings of the International Conference on Learning Representations (ICLR), 2026
+<br>[<a href="https://arxiv.org/abs/2601.20425" target="_blank">paper</a>]
 
-<a href="https://peterhuistyping.github.io/M3ashy/" target="_blank">M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion</a>
-<br>**Chenliang Zhou**, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli. *AAAI 2026*.
+M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion
+<br>**Chenliang Zhou**, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli
+<br>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026
+<br>[<a href="https://peterhuistyping.github.io/M3ashy/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2411.12015" target="_blank">paper</a>][<a href="https://github.com/PeterHUistyping/M3ashy" target="_blank">code</a>][<a href="https://huggingface.co/datasets/Peter2023HuggingFace/NeuMERL" target="_blank">dataset</a>]
 
-<a href="https://aclanthology.org/2025.emnlp-main.1676/" target="_blank">Analyzing and Modeling LLM Response Lengths with Extreme Value Theory: Anchoring Effects and Hybrid Distributions</a>
-<br>Liuxuan Jiao, Chen Gao, Yiqian Yang, **Chenliang Zhou**, YiXian Huang, Yong Li, Xinlei Chen. *EMNLP 2025*.
+Analyzing and Modeling LLM Response Lengths with Extreme Value Theory: Anchoring Effects and Hybrid Distributions</a>
+<br>Liuxuan Jiao, Chen Gao, Yiqian Yang, **Chenliang Zhou**, YiXian Huang, Yong Li, Xinlei Chen
+<br>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
+<br>[<a href="https://aclanthology.org/2025.emnlp-main.1676/" target="_blank">paper</a>]
 
 <a href="https://www.researchgate.net/publication/391911076_RETRO_REthinking_Tactile_Representation_Learning_with_Material_PriOrs" target="_blank">RETRO: REthinking Tactile Representation Learning with Material PriOrs</a>
 <br>Weihao Xia, **Chenliang Zhou**, Cengiz Oztireli. *BMVC 2025*.
