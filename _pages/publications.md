@@ -20,7 +20,12 @@ author_profile: true
 Quartet of Diffusions: Structure-Aware Point Cloud Generation through Part and Symmetry Guidance
 <br>**Chenliang Zhou**, Fangcheng Zhong, Weihao Xia, Albert Miao, Canberk Baykal, Cengiz Oztireli
 <br>Proceedings of the International Conference on Learning Representations (ICLR), 2026
-<br>[<a href="https://arxiv.org/abs/2601.20425" target="_blank">paper</a>]
+<br>[<a href="https://chenliang-zhou.github.io/Quartet-of-Diffusions/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2601.20425" target="_blank">paper</a>][<a href="https://github.com/Chenliang-Zhou/Quartet-of-Diffusions" target="_blank">code</a>]
+
+Features Emerge as Discrete States: The First Application of SAEs to 3D Representations
+<br>Albert Miao, **Chenliang Zhou**, Jiawei Zhou, Cengiz Oztireli
+<br>Proceedings of the International Conference on Learning Representations (ICLR), 2026
+<br>[<a href="https://arxiv.org/abs/2512.11263" target="_blank">paper</a>]
 
 M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion
 <br>**Chenliang Zhou**, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli
