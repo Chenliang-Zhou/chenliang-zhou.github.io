@@ -7,10 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "周陈梁 Chenliang Zhou"
+title                    : &title "周陈梁 Chenliang Zhou"
 title_separator          : "-"
-name                     : &name "周陈梁 Chenliang Zhou"
-description              : &description ""
+name                     : *title
+chinese_name             : &chinese_name "周陈梁"
+english_name             : &english_name "Chenliang Zhou"
+description              : &description "Postdoctoral researcher at University of Cambridge"
 url                      : https://chenliang-zhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenliang-zhou.github.io"
@@ -80,9 +82,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "周陈梁 Chenliang Zhou"
+  name             : *title
+  chinese_name     : *chinese_name
+  english_name     : *english_name
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral researcher at University of Cambridge"
+  bio              : *description
   location         : # "Cambridge, UK | Ningde, China"
   employer         :
   pubmed           : 
