@@ -3,6 +3,7 @@ _site/
 ~$*.docx
 ~$*.xlsx
 ~$*.pptx
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
