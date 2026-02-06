@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "周陈梁 Chenliang Zhou"
 title_separator          : "-"
 name                     : &name "周陈梁 Chenliang Zhou"
-description              : &description "Postdoctoral researcher at University of Cambridge"
+description              : &description ""
 url                      : https://chenliang-zhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenliang-zhou.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chenliang Zhou"
+  name             : "周陈梁 Chenliang Zhou"
   avatar           : "profile.jpg"
-  bio              : "PhD student at University of Cambridge"
+  bio              : "Postdoctoral researcher at University of Cambridge"
   location         : # "Cambridge, UK | Ningde, China"
   employer         :
   pubmed           : 
