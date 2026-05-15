@@ -19,7 +19,7 @@ author_profile: true
 
 Physically Based Neural BRDF: A Framework for Physically Correct Material Reconstruction, Generation and Editing
 <br>**Chenliang Zhou**, Alejandro Sztrajman, Gilles Rainer, Fangcheng Zhong, Cengiz Oztireli, Rafal Mantiuk
-<br>*Computer Graphics Forum e70500
+<br>*Computer Graphics Forum e70500*
 <br>[<a href="https://doi.org/10.1111/cgf.70500" target="_blank">paper</a>]
 
 Quartet of Diffusions: Structure-Aware Point Cloud Generation through Part and Symmetry Guidance
