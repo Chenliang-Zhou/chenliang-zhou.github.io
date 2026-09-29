@@ -7,10 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p>
-  Full list:
-  <a href="{{ base_path }}/publications/full/">https://chenliang-zhou.github.io/publications/full</a>
-</p>
+<p><a href="{{ base_path }}/publications/full/">Full list</a></p>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
