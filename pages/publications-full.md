@@ -55,11 +55,11 @@ Multi-Expert Representation Learning with Dynamic Routing for Brain Captioning
 
 One Sensor, Whole Body — 3D Body Pose from a Single Consumer Earbud IMU
 <br>Zhilin Guo, Boqiao Zhang, Oszkár Urbán, Josef Bengtson, Hakan Aktas, Wenzhao Li, Siyu Hong, Kyle Fogarty, **Chenliang Zhou**, Ali Senguel, Cengiz Oztireli
-<br>*HUMA, 2026*
+<br>*Proceedings of the ACM International Conference on Multimedia (ACM MM), 2026*
 
 Physically Based Neural BRDF: A Framework for Physically Correct Material Reconstruction, Generation and Editing
 <br>**Chenliang Zhou**, Alejandro Sztrajman, Gilles Rainer, Fangcheng Zhong, Cengiz Oztireli, Rafal Mantiuk
-<br>*Computer Graphics Forum, 2026*
+<br>*Computer Graphics Forum (CGF), 2026*
 <br>[<a href="https://doi.org/10.1111/cgf.70500" target="_blank">paper</a>]
 
 Quartet of Diffusions: Structure-Aware Point Cloud Generation through Part and Symmetry Guidance
@@ -83,7 +83,7 @@ M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion
 
 The Application and Reflection of AI-Generated Images in Reshaping the “Uncanny Valley Effect” in Body Horror Films: Taking The Substance as a Research Case
 <br>Yiliang Li, **Chenliang Zhou**
-<br>*IDHHA, 2026*
+<br>*International Conference on Digital Humanities, Cultural Heritage and Artificial Intelligence (IDHHA), 2026*
 
 ## 2025
 

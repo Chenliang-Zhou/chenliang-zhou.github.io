@@ -25,7 +25,7 @@ Features Emerge as Discrete States: The First Application of SAEs to 3D Represen
 
 Physically Based Neural BRDF: A Framework for Physically Correct Material Reconstruction, Generation and Editing
 <br>**Chenliang Zhou**, Alejandro Sztrajman, Gilles Rainer, Fangcheng Zhong, Cengiz Oztireli, Rafal Mantiuk
-<br>*Computer Graphics Forum, 2026*
+<br>*Computer Graphics Forum (CGF), 2026*
 <br>[<a href="https://doi.org/10.1111/cgf.70500" target="_blank">paper</a>]
 
 M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion
