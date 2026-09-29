@@ -1,0 +1,66 @@
+---
+layout: archive
+title: "Selected Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>
+  Full list:
+  <a href="{{ base_path }}/publications/full/">https://chenliang-zhou.github.io/publications/full</a>
+</p>
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+Quartet of Diffusions: Structure-Aware Point Cloud Generation through Part and Symmetry Guidance
+<br>**Chenliang Zhou**, Fangcheng Zhong, Weihao Xia, Albert Miao, Canberk Baykal, Cengiz Oztireli
+<br>*Proceedings of the International Conference on Learning Representations (ICLR), 2026*
+<br>[<a href="https://chenliang-zhou.github.io/Quartet-of-Diffusions/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2601.20425" target="_blank">paper</a>][<a href="https://github.com/Chenliang-Zhou/Quartet-of-Diffusions" target="_blank">code</a>]
+
+Features Emerge as Discrete States: The First Application of SAEs to 3D Representations
+<br>Albert Miao, **Chenliang Zhou**, Jiawei Zhou, Cengiz Oztireli
+<br>*Proceedings of the International Conference on Learning Representations (ICLR), 2026*
+<br>[<a href="https://arxiv.org/abs/2512.11263" target="_blank">paper</a>]
+
+Physically Based Neural BRDF: A Framework for Physically Correct Material Reconstruction, Generation and Editing
+<br>**Chenliang Zhou**, Alejandro Sztrajman, Gilles Rainer, Fangcheng Zhong, Cengiz Oztireli, Rafal Mantiuk
+<br>*Computer Graphics Forum, 2026*
+<br>[<a href="https://doi.org/10.1111/cgf.70500" target="_blank">paper</a>]
+
+M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion
+<br>**Chenliang Zhou**, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli
+<br>*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026*
+<br>[<a href="https://peterhuistyping.github.io/M3ashy/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2411.12015" target="_blank">paper</a>][<a href="https://github.com/PeterHUistyping/M3ashy" target="_blank">code</a>][<a href="https://huggingface.co/datasets/Peter2023HuggingFace/NeuMERL" target="_blank">dataset</a>]
+
+FreNBRDF: A Frequency-Rectified Neural Material Representation
+<br>**Chenliang Zhou**, Zheyuan Hu, Cengiz Oztireli
+<br>*Proceedings of the IEEE International Workshop on Machine Learning for Signal Processing (IEEE MLSP), 2025*
+<br>[<a href="https://peterhuistyping.github.io/FreNBRDF/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2507.00476" target="_blank">paper</a>][<a href="https://github.com/PeterHUistyping/FreNBRDF" target="_blank">code</a>]
+
+Fitness Aware Human Motion Generation from Fine-Tuning
+<br>Kiril Bikov, Shiye Su, Deepro Choudhury, Zhilin Guo, Weihao Xia, Mehmet Salih Çeliktenyıldız, **Chenliang Zhou**, Param Hanji, Cengiz Oztireli
+<br>*Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+
+FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation
+<br>**Chenliang Zhou**, Fangcheng Zhong, Param Hanji, Zhilin Guo, Kyle Fogarty, Alejandro Sztrajman, Hongyun Gao, Cengiz Oztireli
+<br>*Proceedings of the European Conference on Computer Vision (ECCV), 2024*
+<br>[<a href="https://chenliang-zhou.github.io/FrePolad/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2311.12090" target="_blank">paper</a>][<a href="https://github.com/Chenliang-Zhou/FrePolad" target="_blank">code</a>]
+
+Hypernetworks for Generalizable BRDF Representation
+<br>Fazilet Gokbudak, Alejandro Sztrajman, **Chenliang Zhou**, Fangcheng Zhong, Rafal Mantiuk, Cengiz Oztireli
+<br>*Proceedings of the European Conference on Computer Vision (ECCV), 2024*
+<br>[<a href="https://faziletgokbudak.github.io/HyperBRDF/" target="_blank">page</a>][<a href="https://arxiv.org/pdf/2311.15783.pdf" target="_blank">paper</a>][<a href="https://github.com/faziletgokbudak/Hyper-neural-materials" target="_blank">code</a>]
+
+CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Face Manipulation
+<br>**Chenliang Zhou**, Fangcheng Zhong, Cengiz Öztireli
+<br>*ACM SIGGRAPH, 2023*
+<br>[<a href="https://chenliang-zhou.github.io/CLIP-PAE/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2210.03919" target="_blank">paper</a>][<a href="https://github.com/Chenliang-Zhou/CLIP-PAE" target="_blank">code</a>]
+
+AISpace2: An Interactively Visualizable Tool for Learning and Teaching Artificial Intelligence
+<br>**Chenliang Zhou**, Dominic Kuang, Jingru Liu, Tony Yang, Zijia Zhang, Alan Mackworth, David Poole
+<br>*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020*
+<br>[<a href="https://aispace2.github.io/AISpace2/index.html" target="_blank">page</a>][<a href="https://ojs.aaai.org/index.php/AAAI/article/view/7068" target="_blank">paper</a>][<a href="https://github.com/aispace2/aispace2" target="_blank">code</a>]

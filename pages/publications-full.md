@@ -1,0 +1,148 @@
+---
+layout: archive
+title: "Full Publications"
+permalink: /publications/full/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p><a href="{{ base_path }}/publications/">← Back to Selected Publications</a></p>
+
+## Under review
+
+SpreVid: Spectral Regularization for Visual Diffusion Models via Frequency-Aware Alignment
+<br>**Chenliang Zhou**, Zhilin Guo, Weihao Xia, Yiliang Li, Liuxuan Jiao, Cengiz Oztireli
+<br>*Under review*
+
+VoxScene: Anchor-conditioned Voxel Diffusion for Indoor Scene Arrangement
+<br>Haotian Mao, Yuhan Huang, Jiatao Lin, Yang Zhao, Hui Wang, Yiheng Zhang, Yuwang Wang, **Chenliang Zhou**, Yan Zhang, Fangcheng Zhong, Xubo Yang
+<br>*Under review*
+
+Beyond RBF Collocation: Unified Learnable Kansa Methods for PDEs
+<br>Zheyuan Hu, Weitao Chen, Cengiz Öztireli, **Chenliang Zhou**, Fangcheng Zhong
+<br>*Under review*
+
+PoseCraft: 3D Landmark-Driven Diffusion for Realistic Human Rendering from Novel Poses
+<br>Zhilin Guo, Jing Yang, Kyle Fogarty, Jingyi Wan, Tianhao Wu, **Chenliang Zhou**, Weihao Xia, Sakar Khattar, Fangcheng Zhong, Cristina Nader Vasconcelos, Cengiz Oztireli
+<br>*Under review*
+
+Telescopic Language Models
+<br>Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Nursena Koprucu Aslan, Wenzhao Li, Canberk Baykal, Albert Miao, Siyu Hong, Yixiao Liu, Adam Wu, Ashish Kumar Singh, Sakar Khattar, **Chenliang Zhou**, Weihao Xia, Cristina Nader Vasconcelos, Cengiz Oztireli
+<br>*Under review*
+
+Certified Long-Horizon Code Agent Evolution via Validation-Gated Skill Optimization
+<br>Yifan Wang, Hao Cheng, Xiaomin Li, Yuexing Hao, Hemanth Neelgund Ramesh, Dongwon Jung, Hao Tang, Keru Wang, **Chenliang Zhou**, Qianhui Wu, Wenlin Yao, Ananth Grama, Andrzej Banburski-Fahey, Baolin Peng, Jaron Lanier, Jianfeng Gao
+<br>*Under review*
+
+Align3D: Image-Structure Co-Aligned 3D Scene Generation with Observability-Aware Fidelity-Preserving Guidance
+<br>**Chenliang Zhou**, Yifan Wang, Andrzej Banburski-Fahey
+<br>*Under review*
+
+Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose
+<br>Zhilin Guo, Boqiao Zhang, Oszkár Urbán, Josef Bengtson, Hakan Aktas, Wenzhao Li, Siyu Hong, Kyle Fogarty, **Chenliang Zhou**, Ali Senguel, Cengiz Oztireli
+<br>*Under review*
+
+## 2026
+
+Matryoshka Gaussian Splatting
+<br>Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Jeffrey Hu, Nursena Koprucu Aslan, Canberk Baykal, Wenzhao Li, Albert Miao, Josef Bengtson, **Chenliang Zhou**, Weihao Xia, Cristina Nader Vasconcelos, Cengiz Oztireli
+<br>*Proceedings of the European Conference on Computer Vision (ECCV), 2026*
+
+Multi-Expert Representation Learning with Dynamic Routing for Brain Captioning
+<br>Zhilin Guo, Weihao Xia, Mingdeng Cao, **Chenliang Zhou**, Cengiz Oztireli
+<br>*Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026*
+
+One Sensor, Whole Body — 3D Body Pose from a Single Consumer Earbud IMU
+<br>Zhilin Guo, Boqiao Zhang, Oszkár Urbán, Josef Bengtson, Hakan Aktas, Wenzhao Li, Siyu Hong, Kyle Fogarty, **Chenliang Zhou**, Ali Senguel, Cengiz Oztireli
+<br>*HUMA, 2026*
+
+Physically Based Neural BRDF: A Framework for Physically Correct Material Reconstruction, Generation and Editing
+<br>**Chenliang Zhou**, Alejandro Sztrajman, Gilles Rainer, Fangcheng Zhong, Cengiz Oztireli, Rafal Mantiuk
+<br>*Computer Graphics Forum, 2026*
+<br>[<a href="https://doi.org/10.1111/cgf.70500" target="_blank">paper</a>]
+
+Quartet of Diffusions: Structure-Aware Point Cloud Generation through Part and Symmetry Guidance
+<br>**Chenliang Zhou**, Fangcheng Zhong, Weihao Xia, Albert Miao, Canberk Baykal, Cengiz Oztireli
+<br>*Proceedings of the International Conference on Learning Representations (ICLR), 2026*
+<br>[<a href="https://chenliang-zhou.github.io/Quartet-of-Diffusions/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2601.20425" target="_blank">paper</a>][<a href="https://github.com/Chenliang-Zhou/Quartet-of-Diffusions" target="_blank">code</a>]
+
+Features Emerge as Discrete States: The First Application of SAEs to 3D Representations
+<br>Albert Miao, **Chenliang Zhou**, Jiawei Zhou, Cengiz Oztireli
+<br>*Proceedings of the International Conference on Learning Representations (ICLR), 2026*
+<br>[<a href="https://arxiv.org/abs/2512.11263" target="_blank">paper</a>]
+
+Learning-Guided Kansa Collocation for Forward and Inverse PDEs Beyond Linearity
+<br>Zheyuan Hu, Weitao Chen, Cengiz Oztireli, **Chenliang Zhou**, Fangcheng Zhong
+<br>*Proceedings of the International Conference on Learning Representations (ICLR), 2026*
+
+M<sup>3</sup>ashy: Multi-Modal Material Synthesis via Hyperdiffusion
+<br>**Chenliang Zhou**, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli
+<br>*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026*
+<br>[<a href="https://peterhuistyping.github.io/M3ashy/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2411.12015" target="_blank">paper</a>][<a href="https://github.com/PeterHUistyping/M3ashy" target="_blank">code</a>][<a href="https://huggingface.co/datasets/Peter2023HuggingFace/NeuMERL" target="_blank">dataset</a>]
+
+The Application and Reflection of AI-Generated Images in Reshaping the “Uncanny Valley Effect” in Body Horror Films: Taking The Substance as a Research Case
+<br>Yiliang Li, **Chenliang Zhou**
+<br>*IDHHA, 2026*
+
+## 2025
+
+Analyzing and Modeling LLM Response Lengths with Extreme Value Theory: Anchoring Effects and Hybrid Distributions
+<br>Liuxuan Jiao, Chen Gao, Yiqian Yang, **Chenliang Zhou**, YiXian Huang, Yong Li, Xinlei Chen
+<br>*Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025*
+<br>[<a href="https://aclanthology.org/2025.emnlp-main.1676/" target="_blank">paper</a>]
+
+RETRO: REthinking Tactile Representation Learning with Material PriOrs
+<br>Weihao Xia, **Chenliang Zhou**, Cengiz Oztireli
+<br>*Proceedings of the British Machine Vision Conference (BMVC), 2025*
+<br>[<a href="https://www.researchgate.net/publication/391911076_RETRO_REthinking_Tactile_Representation_Learning_with_Material_PriOrs" target="_blank">paper</a>]
+
+FreNBRDF: A Frequency-Rectified Neural Material Representation
+<br>**Chenliang Zhou**, Zheyuan Hu, Cengiz Oztireli
+<br>*Proceedings of the IEEE International Workshop on Machine Learning for Signal Processing (IEEE MLSP), 2025*
+<br>[<a href="https://peterhuistyping.github.io/FreNBRDF/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2507.00476" target="_blank">paper</a>][<a href="https://github.com/PeterHUistyping/FreNBRDF" target="_blank">code</a>]
+
+## 2024
+
+Fitness Aware Human Motion Generation from Fine-Tuning
+<br>Kiril Bikov, Shiye Su, Deepro Choudhury, Zhilin Guo, Weihao Xia, Mehmet Salih Çeliktenyıldız, **Chenliang Zhou**, Param Hanji, Cengiz Oztireli
+<br>*Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+
+FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation
+<br>**Chenliang Zhou**, Fangcheng Zhong, Param Hanji, Zhilin Guo, Kyle Fogarty, Alejandro Sztrajman, Hongyun Gao, Cengiz Oztireli
+<br>*Proceedings of the European Conference on Computer Vision (ECCV), 2024*
+<br>[<a href="https://chenliang-zhou.github.io/FrePolad/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2311.12090" target="_blank">paper</a>][<a href="https://github.com/Chenliang-Zhou/FrePolad" target="_blank">code</a>]
+
+Hypernetworks for Generalizable BRDF Representation
+<br>Fazilet Gokbudak, Alejandro Sztrajman, **Chenliang Zhou**, Fangcheng Zhong, Rafal Mantiuk, Cengiz Oztireli
+<br>*Proceedings of the European Conference on Computer Vision (ECCV), 2024*
+<br>[<a href="https://faziletgokbudak.github.io/HyperBRDF/" target="_blank">page</a>][<a href="https://arxiv.org/pdf/2311.15783.pdf" target="_blank">paper</a>][<a href="https://github.com/faziletgokbudak/Hyper-neural-materials" target="_blank">code</a>]
+
+XQSV: A Structurally Variable Network to Imitate Human Play in Xiangqi
+<br>**Chenliang Zhou**
+<br>*Proceedings of the IEEE Conference on Games (IEEE CoG), 2024*
+<br>[<a href="https://ieeexplore.ieee.org/document/10645635" target="_blank">paper</a>]
+
+## 2023
+
+CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Face Manipulation
+<br>**Chenliang Zhou**, Fangcheng Zhong, Cengiz Öztireli
+<br>*ACM SIGGRAPH, 2023*
+<br>[<a href="https://chenliang-zhou.github.io/CLIP-PAE/" target="_blank">page</a>][<a href="https://arxiv.org/abs/2210.03919" target="_blank">paper</a>][<a href="https://github.com/Chenliang-Zhou/CLIP-PAE" target="_blank">code</a>]
+
+## 2020
+
+Comparing Parameterizations and Objective Functions for Maximizing the Volume of Zonotopic Invariant Sets
+<br>**Chenliang Zhou**, Heejin Ahn, Ian Mitchell
+<br>*Proceedings of the IEEE Conference on Decision and Control (CDC), 2020*
+<br>[<a href="https://arxiv.org/abs/2505.15109" target="_blank">paper</a>]
+
+Investigation on Circadian Action and Color Quality in Laser-Based Illuminant for General Lighting and Display
+<br>Shuodi Lei, Bijing Liu, Yang Gao, Xiaoya Dong, Yujia Gong, Jian Xu, Yunxin Xu, Dong Wang, Ziquan Guo, Tingzhu Wu, **Chenliang Zhou**, Zongjian Cai, Yijun Lu, Zhong Chen
+<br>*IEEE Photonics Journal, 2020*
+<br>[<a href="https://ieeexplore.ieee.org/document/9134895" target="_blank">paper</a>]
+
+AISpace2: An Interactively Visualizable Tool for Learning and Teaching Artificial Intelligence
+<br>**Chenliang Zhou**, Dominic Kuang, Jingru Liu, Tony Yang, Zijia Zhang, Alan Mackworth, David Poole
+<br>*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020*
+<br>[<a href="https://aispace2.github.io/AISpace2/index.html" target="_blank">page</a>][<a href="https://ojs.aaai.org/index.php/AAAI/article/view/7068" target="_blank">paper</a>][<a href="https://github.com/aispace2/aispace2" target="_blank">code</a>]
