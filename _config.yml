@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : &title "周陈梁 Chenliang Zhou"
+title                    : &title "周陈梁 ZHOU, Chenliang"
 title_separator          : "-"
 name                     : *title
 chinese_name             : &chinese_name "周陈梁"
